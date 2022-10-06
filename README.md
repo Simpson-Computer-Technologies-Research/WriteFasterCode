@@ -1,4 +1,4 @@
-# Good practices for writing fast code! ![Stars](https://img.shields.io/github/stars/Simpson-Computer-Technologies-Research/-WriteFasterCode?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/Simpson-Computer-Technologies-Research/WriteFasterCode?label=Watchers)
+# Write Faster Code ![Stars](https://img.shields.io/github/stars/Simpson-Computer-Technologies-Research/-WriteFasterCode?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/Simpson-Computer-Technologies-Research/WriteFasterCode?label=Watchers)
 
 ```py
 # // Time libarary
